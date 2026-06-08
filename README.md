@@ -1,25 +1,22 @@
-# ❤️ Heart Disease Analysis using PCA, GMM and XGBoost
+## Project Overview
 
-## Overview
-
-This project performs machine learning analysis on heart disease data using:
-
-- Principal Component Analysis (PCA)
-- Gaussian Mixture Models (GMM)
-- XGBoost Classification
+This project analyzes heart disease patient data using PCA, GMM Clustering and XGBoost Classification.
 
 ## Dataset
 
-1025 patient records with 14 clinical features.
+- 1025 patient records
+- 14 clinical features
+- Binary target classification
 
 ## Techniques Used
 
-- Data Cleaning
 - Exploratory Data Analysis
 - PCA
-- GMM Clustering
+- Gaussian Mixture Models
 - XGBoost
 
-## Author
+## Results
 
-Sasindra Sri Sai Nandam
+- PCA reduced dimensionality for visualization
+- GMM identified patient clusters
+- XGBoost achieved strong classification performance
